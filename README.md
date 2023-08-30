@@ -1,6 +1,8 @@
 # Домашнее задание к занятию «Redux Toolkit»
 ===
 ### Задание 1
+Ссылка на страницу: https://Olesya1988.github.io/ra-redux-toolkit
+
 ### Цель задания 
 1. Научиться работать с пакетом Redux Toolkit.
 2. Создать на базе Redux Toolkit страницу с фактами о Star Wars.
